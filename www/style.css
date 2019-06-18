@@ -1,0 +1,69 @@
+
+h1{
+        font-family: 'monotype-corsiva', cursive;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #ad1d28;
+}
+
+h2{
+        font-family: 'arial', cursive;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #7c7c77;
+}
+
+body {
+  background-color: #DEDEDD;
+}
+
+p{
+  font-weight:bold ;
+  text-align: justify;
+  font-size: 16; 
+  
+}
+
+actionbutton{
+  color:#ad1d28;
+}
+
+#st{
+  background-color:#DEDEDD;
+  width:100%;
+}
+#st:hover{
+  background-color:#ad1d28;
+  color:#ffffff;
+} 
+
+#makepred{
+  background-color:#DEDEDD;
+  width:100%;
+}
+#makepred:hover{
+  background-color:#ad1d28;
+  color:#ffffff;
+} 
+
+#plotpred{
+  background-color:#DEDEDD;
+  width:100%;
+}
+#plotpred:hover{
+  background-color:#ad1d28;
+  color:#ffffff;
+} 
+
+#calculateworkload{
+  background-color:#DEDEDD;
+  width:100%;
+}
+#calculateworkload:hover{
+  background-color:#ad1d28;
+  color:#ffffff;
+} 
+
+#originalPlot{
+  box-shadow:5px 10px #888888;
+}
